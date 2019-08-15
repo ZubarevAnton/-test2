@@ -1,4 +1,24 @@
+/* @font-face {
+    font-family: "Emblema One";
+    src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+    url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+} */
+
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
 }
 
+h1 {
+    font-family: 'Bad Script', sans-serif;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: 'Bad Script', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+}

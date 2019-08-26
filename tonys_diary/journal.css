@@ -6,11 +6,13 @@
 
 body {
     background-color: silver;
-    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-family: "Bad Script" , Verdana, Geneva, Arial, sans-serif;
 }
 
-h2 {
-    font-weight:normal;
+h1, h2 {
+    color: #cc6600;
+    border-bottom: thin dotted #FF0000;
+    font-family: "Open Sans", sans-serif;
 }
 
 blockquote {

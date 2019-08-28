@@ -17,9 +17,20 @@ h2 {
 }
 
 .guarantee {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    line-height: 1.9em;
+    color: #444444;
     border-color: black;
     border-width: 1px;
-    border-style: dotted;
+    border-style: dashed;
+    border-radius: 25px;
     background-color: #a7cece;
-    padding: 20px;
+    padding: 25px;
+    padding-left: 80px;
+    margin: 30px;
+    margin-right: 250px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
 }
